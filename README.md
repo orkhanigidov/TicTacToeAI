@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img src="https://raw.githubusercontent.com/orxanigidov/Tic-Tac-Toe-with-AI/master/screenshot/Screen%20Shot.png" width="640">
+<img src="https://raw.githubusercontent.com/orxanigidov/Tic-Tac-Toe-with-AI/master/screenshot/Screen%20Shot.png" width="1024">
 
 ## Available Scripts
 
